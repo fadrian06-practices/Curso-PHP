@@ -5,6 +5,10 @@
     <meta name="viewport" content="width=device-width" />
   </head>
   <body>
-    <?php echo 'Hola alumnos. Hoy es martes' ?>
+    <?php
+      print 'Bienvenidos al curso de PHP <br />';
+      print 'Hola alumnos <br />';
+      print 'Hola el próximo video';
+    ?>
   </body>
 </html>
